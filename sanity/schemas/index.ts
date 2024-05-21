@@ -1,7 +1,6 @@
 import resource from './resource.schema';
-import resourcePlaylist from './resource-playlist.schema'
+import resourcePlaylist from './resource-playlist.schema';
 
-const shemas=[resource,resourcePlaylist]
+const schemas = [resource, resourcePlaylist]
 
-
-export default shemas;
+export default schemas;
