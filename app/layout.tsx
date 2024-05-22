@@ -7,10 +7,10 @@ export const metadata = {
   other: {
     'theme-color': '#0d1117',
     "color-scheme": "dark only",
-    "twitter:image": 'https://i.ibb.co/d6TXxB2/homepage-thumbnail.jpg',
+    "twitter:image": 'https://drive.google.com/file/d/1eUs36GGnos4g0YPL5KrGHazg6U_u38FQ/view?usp=drive_link',
     "twitter:card": "summary_large_image",
     "og:url": "jsmastery.pro",
-    "og:image": 'https://i.ibb.co/d6TXxB2/homepage-thumbnail.jpg',
+    "og:image": 'https://drive.google.com/file/d/1eUs36GGnos4g0YPL5KrGHazg6U_u38FQ/view?usp=drive_link',
     "og:type": "website",
   }
 }
